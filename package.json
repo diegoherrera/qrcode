@@ -1,0 +1,36 @@
+{
+    "name": "cordova-plugin-barcodeallzxing",
+    "version": "1.0.1",
+    "description": "ZXing Barcode Scanner Plugin for Cordova all version",
+    "cordova": {
+      "id": "cordova-plugin-barcodeallzxing",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/diegoherrera/qrcode.git"
+    },
+    "keywords": [
+      "cordova",
+      "android",
+      "zxing",
+      "barcode",
+      "qrcode",
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=4.0.0"
+      }
+    ],
+    "author": "Diego Herrera <dsherrera@gmail.com>",
+    "license": "Apache License 2.0",
+    "bugs": {
+      "url": "https://github.com/diegoherrera/issues"
+    },
+    "homepage": "https://github.com/diegoherrera/"
+  }
